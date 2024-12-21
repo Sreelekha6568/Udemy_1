@@ -1,0 +1,196 @@
+body{
+    padding: 15px;
+    background-color: aliceblue;
+
+}
+    #header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    }
+    #search{
+        background-image: url(sicon.webp);
+        background-repeat: no-repeat;
+        background-position: 12px 12px;
+        width: 20rem;
+        height: 3rem;
+        border: size 24rem;
+        border-radius: 3rem;
+        padding-left: 2.5rem;
+        border-radius:1px solid black ;
+        background-size: 24px;
+    }
+    #login{
+        width: 4rem;
+        height: 2rem;
+        border: 1px solid black;
+        background-color: white;
+    }
+    #signup{
+        width: 4rem;
+        height: 2.5rem;
+        background-color: black;
+        color: white;
+    }
+    
+    
+    .courses{
+        font-size: 24px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        justify-content: space-between;
+        border-radius: 30px;
+    }
+    .detail{
+        display: flex;
+        flex-wrap: wrap;
+        row-gap:10px;
+        column-gap: 20px;
+        border-radius: 30px;
+        
+    }
+    .logo{
+        background-color: rgb(255, 255,255);
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+        align-items: center;
+        column-gap: 5rem;
+        row-gap: 10px;
+    }
+    .goal1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #goal1_1{
+        background-image: url("hands-on-practice.webp");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 10px 10px;
+        padding: 30px;
+        border: 1px solid purple;
+        border-left: 10px solid purple;
+
+        
+    }
+    #goal2_2{
+        background-image: url("certificate\ \(1\).webp");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 10px 10px;
+        padding: 10px;
+        border: 1px solid purple;
+    }
+    #goal3_3{
+        background-image: url(empty-state-1.webp);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: 10px 10px;
+        padding: 10px;
+        border: 1px solid purple;
+
+    }
+    #goal4_4{
+        background-image: url(spin.webp);
+        background-size: contain;
+        background-position: 10px 10px;
+        background-repeat: no-repeat;
+        padding: 10px;
+        border: 1px solid purple;
+    }
+    #plan1,#plan2,#plan3{
+        border-top: 10px solid purple;
+        border-left: 1px solid #bbb;
+        border-right: 1px solid #bbb;
+        border-bottom: 1px solid #bbb;
+
+    }
+    .plans{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    #feedbackA{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    #feedback1,#feedback2,#feedback3,#feedbach4{
+        height: 380px;
+        width: 300px;
+        border: 1px solid #bbb;
+        padding: 10px;
+    }
+    .reportsA{
+        background-color: aliceblue;
+    }
+    .reports{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: cemter;
+        padding-left: 15px;
+    }
+    .part{
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 50px;
+        justify-content: space-evenly;
+    }
+    .type{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+    } 
+    #type1,#type2,#type3,#type4{
+        border: 1px solid black;
+        padding: 10px;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+    }
+    #pages{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+        
+    
+    }
+    #p1{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        column-gap: 50px;
+    }
+    
+        
+
+
+    
+        
+    
+    
+    
+        
+    
+        
+        
+        
+
+        
+    
+   
+
+
+
+        
+    
+        
+    
+
+    
